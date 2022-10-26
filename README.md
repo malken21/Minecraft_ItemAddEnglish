@@ -18,3 +18,6 @@ pip install PySimpleGUI
 Python3を導入
 <br>
 setup.bat を実行
+
+## 起動方法
+start.bat を実行
